@@ -1,7 +1,7 @@
 HTML(5) snippets
 ================
 
-...
+You can use http://htmlpreview.github.io/ to preview HTML files.
 
 HTML Validation
 ---------------
